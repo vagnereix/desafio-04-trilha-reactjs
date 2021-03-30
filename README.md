@@ -6,12 +6,10 @@
 </p>
 
 ## 💻 Projeto
-
-<p>O GoRestaurant é uma aplicação ficticia em <strong>React.js</strong> que se trata de um painel de administração para restaurantes
-controlarem quais refeições estão disponíveis e quais estão indisponíveis.</p>
+O GoRestaurant é uma aplicação ficticia em <strong>React.js</strong> que se trata de um painel de administração para restaurantes
+controlarem quais refeições estão disponíveis e quais estão indisponíveis.
 
 ## :books: Guia de instalação e execução
-
 Antes de começar 🏁, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados.
 
 ```bash
@@ -31,13 +29,10 @@ $ yarn server
 $ yarn dev
 
 ```
-
 Pronto! Você pode visualizar o GoRestaurant através do endereço http://localhost:3000
 
 ## :rocket: Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HTML5](https://www.w3schools.com/html/default.asp)
