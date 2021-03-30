@@ -10,8 +10,6 @@
 <p>O GoRestaurant é uma aplicação ficticia em <strong>React.js</strong> que se trata de um painel de administração para restaurantes
 controlarem quais refeições estão disponíveis e quais estão indisponíveis.</p>
 
-<p>Desenvolvida no desafio 5 do Treinamento Ignite da Rocketseat.</p>
-
 ## :books: Guia de instalação e execução
 
 Antes de começar 🏁, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados.
