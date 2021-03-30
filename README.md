@@ -5,7 +5,7 @@
 <img src="https://github.com/nathaliacristina20/gorestaurant/blob/master/.github/gorestaurant.png" width="1120px" />
 </p>
 
-## :rocket: Sobre
+## 💻 Projeto
 
 <p>O GoRestaurant é uma aplicação ficticia em <strong>React.js</strong> que se trata de um painel de administração para restaurantes
 controlarem quais refeições estão disponíveis e quais estão indisponíveis.</p>
@@ -36,7 +36,7 @@ $ yarn dev
 
 Pronto! Você pode visualizar o GoRestaurant através do endereço http://localhost:3000
 
-<h2>Tecnologias</h2>
+<h2>:rocket: Tecnologias</h2>
 <ul>
   <li>ReactJS</li>
   <li>TypeScript</li>
